@@ -1,0 +1,2 @@
+﻿l_simp_chinese:
+ action_too_many_held_duchies_combined_group_description: "作为 [king|E] 或 [emperor|E]，你持有超过三个 [duchies|E]，这会降低你的 [vassals|E] 对你的 [opinion|E]。\n\n#help 你持有的 $game_concept_duchies$ 超过前两个后，你的 [vassals|E] 会变得更加嫉妒。虽然你可以无视他们的抱怨，但可以考虑让出一些 $game_concept_duchy$ [titles|E]。\n\n你应该保留那些你拥有许多 $game_concept_counties$ 的 $game_concept_duchies$，尤其是你的 [realm_capital|E]。#!"

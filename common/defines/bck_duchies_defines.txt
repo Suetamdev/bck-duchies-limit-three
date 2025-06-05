@@ -1,0 +1,4 @@
+﻿NCharacterOpinion = {
+    MAX_DUCHIES_BEFORE_PENALTY = 3
+    TOO_MANY_DUCHIES_OPINION = -25
+}

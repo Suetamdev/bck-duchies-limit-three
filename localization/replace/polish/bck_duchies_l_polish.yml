@@ -1,0 +1,2 @@
+﻿l_polish:
+ action_too_many_held_duchies_combined_group_description: "Posiadasz więcej niż trzy [duchies|E] jako [king|E] lub [emperor|E], co obniża [opinion|E] twoich [vassals|E] na twój temat.\n\n#help Im więcej $game_concept_duchies$ posiadasz ponad pierwsze dwa, tym bardziej zawistni będą twoi [vassals|E]. Chociaż możesz ignorować ich skargi, rozważ przekazanie niektórych ze swoich $game_concept_duchy$ [titles|E].\n\nPowinieneś zachować $game_concept_duchies$, w których posiadasz wiele $game_concept_counties$, zwłaszcza swoją [realm_capital|E].#!"

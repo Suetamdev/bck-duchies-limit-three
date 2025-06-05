@@ -1,0 +1,2 @@
+﻿l_korean:
+ action_too_many_held_duchies_combined_group_description: "당신은 [king|E] 또는 [emperor|E]로서 세 개 이상의 [duchies|E]를 보유하고 있으며, 이는 [vassals|E]의 [opinion|E]을 낮춥니다.\n\n#help 첫 두 개의 $game_concept_duchies$를 초과하여 보유할수록 [vassals|E]은 더욱 시기하게 됩니다. 그들의 불만을 무시할 수도 있지만, 일부 $game_concept_duchy$ [titles|E]를 양도하는 것을 고려해 보십시오.\n\n특히 많은 $game_concept_counties$를 보유한 $game_concept_duchies$와 당신의 [realm_capital|E]이 있는 $game_concept_duchies$를 유지하는 것이 좋습니다.#!"
